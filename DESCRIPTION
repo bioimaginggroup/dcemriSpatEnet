@@ -1,11 +1,10 @@
-Package: dcemriSpatEnet
+Package: dcemriEnet
 Type: Package
-Title: Elastic Net analysis for DCE-MR images
+Title: Spatial Elastic Net for DCE-MRI data
 Version: 0.1
 Date: 2015-09-07
-Author: Julia Sommer, Volker Schmid
-Maintainer: volker.schmid@lmu.de
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
-LazyData: TRUE
+Author: Julia Sommer, Jan Gertheiss, Volker Schmid
+Maintainer: Volker Schmid <volker.schmid@lmu.de>
+Description: Spatial Elastic Net for DCE-MRI data
+License: GPL
 Requires: quadprog
