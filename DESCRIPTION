@@ -1,0 +1,11 @@
+Package: dcemriSpatEnet
+Type: Package
+Title: Elastic Net analysis for DCE-MR images
+Version: 0.1
+Date: 2015-09-07
+Author: Julia Sommer, Volker Schmid
+Maintainer: volker.schmid@lmu.de
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
+LazyData: TRUE
+Requires: quadprog
