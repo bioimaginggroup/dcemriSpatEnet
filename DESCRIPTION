@@ -1,4 +1,4 @@
-Package: dcemriEnet
+Package: dcemriSpatEnet
 Type: Package
 Title: Spatial Elastic Net for DCE-MRI data
 Version: 0.1
